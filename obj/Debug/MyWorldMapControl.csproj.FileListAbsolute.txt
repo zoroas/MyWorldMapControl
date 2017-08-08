@@ -1,0 +1,14 @@
+c:\Users\marco.costa\documents\visual studio 2017\Projects\MyWorldMapControl\obj\Debug\MyWorldMapControl.csprojResolveAssemblyReference.cache
+c:\Users\marco.costa\documents\visual studio 2017\Projects\MyWorldMapControl\obj\Debug\WorldMapControl.g.cs
+c:\Users\marco.costa\documents\visual studio 2017\Projects\MyWorldMapControl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\Users\marco.costa\documents\visual studio 2017\Projects\MyWorldMapControl\obj\Debug\MyWorldMapControl_MarkupCompile.cache
+c:\Users\marco.costa\documents\visual studio 2017\Projects\MyWorldMapControl\obj\Debug\MyWorldMapControl_MarkupCompile.lref
+c:\Users\marco.costa\documents\visual studio 2017\Projects\MyWorldMapControl\obj\Debug\WorldMapControl.baml
+c:\Users\marco.costa\documents\visual studio 2017\Projects\MyWorldMapControl\obj\Debug\MyWorldMapControl.dll
+c:\Users\marco.costa\documents\visual studio 2017\Projects\MyWorldMapControl\obj\Debug\MyWorldMapControl.pdb
+c:\Users\marco.costa\documents\visual studio 2017\Projects\MyWorldMapControl\bin\Debug\MyWorldMapControl.dll
+c:\Users\marco.costa\documents\visual studio 2017\Projects\MyWorldMapControl\bin\Debug\MyWorldMapControl.pdb
+c:\Users\marco.costa\documents\visual studio 2017\Projects\MyWorldMapControl\obj\Debug\Themes\Generic.baml
+c:\Users\marco.costa\documents\visual studio 2017\Projects\MyWorldMapControl\obj\Debug\MyWorldMapControl.g.resources
+c:\Users\marco.costa\documents\visual studio 2017\Projects\MyWorldMapControl\obj\Debug\MyWorldMapControl.Properties.Resources.resources
+c:\Users\marco.costa\documents\visual studio 2017\Projects\MyWorldMapControl\obj\Debug\MyWorldMapControl.csproj.GenerateResource.Cache
